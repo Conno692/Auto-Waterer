@@ -10,6 +10,7 @@
             "includePath": [
                 "/home/joe/Documents/Github/Auto-Waterer/include",
                 "/home/joe/Documents/Github/Auto-Waterer/src",
+                "/home/joe/Documents/Github/Auto-Waterer/.pio/libdeps/uno/Servo/src",
                 "/home/joe/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "/home/joe/.platformio/packages/framework-arduino-avr/variants/standard",
                 "/home/joe/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
@@ -24,6 +25,7 @@
                 "path": [
                     "/home/joe/Documents/Github/Auto-Waterer/include",
                     "/home/joe/Documents/Github/Auto-Waterer/src",
+                    "/home/joe/Documents/Github/Auto-Waterer/.pio/libdeps/uno/Servo/src",
                     "/home/joe/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "/home/joe/.platformio/packages/framework-arduino-avr/variants/standard",
                     "/home/joe/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
